@@ -1,0 +1,36 @@
+_repo: Sketches-from-the-history-of-medicine-ancient-and-modern-An-oration-delivered-before-the-Hunt__69197
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saunders, W. Sedgwick (William Sedgwick)
+    aliases:
+    - Saunders, William Sedgwick
+    - Saunders, Wm. Sedgwick
+    birthdate: 1824
+    deathdate: 1901
+    gutenberg_agent_id: '54369'
+    url: http://www.gutenberg.org/2009/agents/54369
+description: ''
+gutenberg_issued: '2022-10-21'
+identifiers:
+  gutenberg: '69197'
+language: en
+pgterms:marc904: https://wellcomecollection.org/works/bk7f8uf4
+pgterms:marc905: 20210316094313saunders
+pgterms:marc906: '1868'
+pgterms:marc907: GB
+production_note: deaurider, Guus Snijders and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United Kingdom: The London Institution,1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- History'
+- !lcsh 'Speeches, addresses, etc., English'
+- !lcc 'R'
+- GITenberg
+title: "Sketches from the history of medicine, ancient and modern\r\nAn oration delivered\
+  \ before the Hunterian Society"
+url: http://www.gutenberg.org/ebooks/69197
