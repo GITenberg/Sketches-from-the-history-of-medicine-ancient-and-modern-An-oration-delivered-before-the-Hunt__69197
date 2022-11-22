@@ -1,5 +1,8 @@
 _repo: Sketches-from-the-history-of-medicine-ancient-and-modern-An-oration-delivered-before-the-Hunt__69197
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69197-h/images/cover.jpg
 creator:
   author:
     agent_name: Saunders, W. Sedgwick (William Sedgwick)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '54369'
     url: http://www.gutenberg.org/2009/agents/54369
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69197#Sketches-from-the-history-of-medicine-ancient-and-modern-An-oration-delivered-before-the-Hunt_
 gutenberg_issued: '2022-10-21'
 identifiers:
   gutenberg: '69197'
